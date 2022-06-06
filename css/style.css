@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+    font-size: 30px;
+    color: whitesmoke;
+    background-image: url(../img/JediFight.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 750px;
+}
